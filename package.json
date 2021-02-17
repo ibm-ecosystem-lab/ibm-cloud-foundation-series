@@ -15,7 +15,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby-theme-carbon": "^1.21.1",
+    "gatsby-theme-carbon": "^1.27.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "gatsby-plugin-global-context": "^1.0.0",
