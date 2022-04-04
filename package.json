@@ -27,7 +27,7 @@
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-offline": "^3.0.32",
     "gatsby-source-filesystem": "^2.1.46",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
